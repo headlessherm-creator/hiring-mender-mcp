@@ -1,0 +1,17 @@
+{
+  "name": "hiring-mender-mcp",
+  "version": "0.1.0",
+  "description": "One MCP server, one consistent tool vocabulary, for BambooHR and Greenhouse ATS write operations: create/update candidates, advance/move/reject applications. No separate integration code per platform.",
+  "type": "module",
+  "main": "src/index.js",
+  "bin": {
+    "hiring-mender-mcp": "src/index.js"
+  },
+  "keywords": ["mcp", "model-context-protocol", "mcp-server", "ai-agents", "hr", "ats", "applicant-tracking", "bamboohr", "greenhouse", "recruiting", "hiring", "candidate-management"],
+  "license": "MIT",
+  "author": "headless108",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.4",
+    "zod": "^3.23.8"
+  }
+}
