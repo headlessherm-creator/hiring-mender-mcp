@@ -81,6 +81,7 @@ BambooHR MCP server, Greenhouse MCP server, ATS MCP server, applicant tracking s
 Same local-first philosophy, different problems:
 - [polymath-megablaster-mcp](https://github.com/headlessherm-creator/polymath-megablaster-mcp) — deterministic math, date, unit conversion, networking
 - [json-mender-mcp](https://github.com/headlessherm-creator/json-mender-mcp) — fix malformed JSON, validate JSON Schema, test regex
+- [helpdesk-mender-mcp](https://github.com/headlessherm-creator/helpdesk-mender-mcp) — Zendesk + Freshdesk + Help Scout write tools, one vocabulary
 
 ## License
 
