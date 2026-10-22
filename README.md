@@ -76,6 +76,12 @@ This server makes real network calls to BambooHR's and Greenhouse's APIs using t
 
 BambooHR MCP server, Greenhouse MCP server, ATS MCP server, applicant tracking system AI agent, recruiting automation MCP, HR MCP server, hiring pipeline automation, candidate management MCP, Claude MCP recruiting tools.
 
+## Related tools
+
+Same local-first philosophy, different problems:
+- [polymath-megablaster-mcp](https://github.com/headlessherm-creator/polymath-megablaster-mcp) — deterministic math, date, unit conversion, networking
+- [json-mender-mcp](https://github.com/headlessherm-creator/json-mender-mcp) — fix malformed JSON, validate JSON Schema, test regex
+
 ## License
 
 MIT
